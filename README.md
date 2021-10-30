@@ -1,4 +1,4 @@
-### Hallo semua, Saya Dani Orlando! 👋
+### Hallo, Saya Dani Orlando! 👋
 
 - 🔭 I’m currently working on Java Foundations.
 - 🌱 I’m currently learning more about Java.
